@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# 🎬 Movie Explorer App
+
+A fully responsive React-based web application that lets users explore trending and searched movies using the [TMDb API](https://www.themoviedb.org/documentation/api).
+
+## 🔧 Features Implemented
+
+- **Movie Search** with recent history
+- **Trending Movies** with infinite scroll
+- **Movie Details** popup view
+- **Filtering** by Genre, Year, and Minimum Rating
+- **Dark Mode** toggle
+- **Favorites** support (via localStorage)
+-  Responsive UI using Material UI
+-  Secure use of API key with environment variables
+
+

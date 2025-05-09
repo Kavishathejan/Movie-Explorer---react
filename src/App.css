@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
